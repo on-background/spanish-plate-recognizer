@@ -1,5 +1,5 @@
 # spanish-plate-recognizer [v1.0]
-Pyhton's  code for recognize modern spanish plates.
+Pyhton's  code for recognize modern spanish plates (0000 XYZ, e.g.).
 
 # usage
 - python3 spanish_plate.py
