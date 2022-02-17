@@ -12,3 +12,9 @@ or
 
 - pip install tesseract
 - pip install cv2
+
+# important 
+
+All images should be stored in a folder called "img" which has to be in the same path as the Python's code.
+
+Also you can change path or/and name of this folder modifying variable "folder_dir" content.
