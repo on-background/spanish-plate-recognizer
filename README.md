@@ -1,4 +1,4 @@
-# spanish-plate-recognizer
+# spanish-plate-recognizer [BETA]
 Pyhton's  code for recognize modern spanish plates.
 
 # usage
