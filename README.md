@@ -2,16 +2,16 @@
 Pyhton's  code for recognize modern spanish plates (0000 XYZ, e.g.).
 
 # usage
-- python3 spanish_plate.py
+- ```python3 spanish_plate.py```
 
 or
 
-- python spanish_plate.py
+- ```python spanish_plate.py```
 
 # dependencies
 
-- pip install tesseract
-- pip install cv2
+- ```pip install tesseract```
+- ```pip install cv2```
 
 # important 
 
